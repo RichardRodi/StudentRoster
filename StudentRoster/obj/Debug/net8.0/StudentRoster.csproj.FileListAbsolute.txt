@@ -1,0 +1,15 @@
+C:\Users\Rich Rodi\Desktop\repos\StudentRoster\StudentRoster\bin\Debug\net8.0\StudentRoster.exe
+C:\Users\Rich Rodi\Desktop\repos\StudentRoster\StudentRoster\bin\Debug\net8.0\StudentRoster.deps.json
+C:\Users\Rich Rodi\Desktop\repos\StudentRoster\StudentRoster\bin\Debug\net8.0\StudentRoster.runtimeconfig.json
+C:\Users\Rich Rodi\Desktop\repos\StudentRoster\StudentRoster\bin\Debug\net8.0\StudentRoster.dll
+C:\Users\Rich Rodi\Desktop\repos\StudentRoster\StudentRoster\bin\Debug\net8.0\StudentRoster.pdb
+C:\Users\Rich Rodi\Desktop\repos\StudentRoster\StudentRoster\obj\Debug\net8.0\StudentRoster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rich Rodi\Desktop\repos\StudentRoster\StudentRoster\obj\Debug\net8.0\StudentRoster.AssemblyInfoInputs.cache
+C:\Users\Rich Rodi\Desktop\repos\StudentRoster\StudentRoster\obj\Debug\net8.0\StudentRoster.AssemblyInfo.cs
+C:\Users\Rich Rodi\Desktop\repos\StudentRoster\StudentRoster\obj\Debug\net8.0\StudentRoster.csproj.CoreCompileInputs.cache
+C:\Users\Rich Rodi\Desktop\repos\StudentRoster\StudentRoster\obj\Debug\net8.0\StudentRoster.sourcelink.json
+C:\Users\Rich Rodi\Desktop\repos\StudentRoster\StudentRoster\obj\Debug\net8.0\StudentRoster.dll
+C:\Users\Rich Rodi\Desktop\repos\StudentRoster\StudentRoster\obj\Debug\net8.0\refint\StudentRoster.dll
+C:\Users\Rich Rodi\Desktop\repos\StudentRoster\StudentRoster\obj\Debug\net8.0\StudentRoster.pdb
+C:\Users\Rich Rodi\Desktop\repos\StudentRoster\StudentRoster\obj\Debug\net8.0\StudentRoster.genruntimeconfig.cache
+C:\Users\Rich Rodi\Desktop\repos\StudentRoster\StudentRoster\obj\Debug\net8.0\ref\StudentRoster.dll

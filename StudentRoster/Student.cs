@@ -6,28 +6,18 @@ namespace StudentRoster
     public class Student
 
     {
-        public Student()
-        { 
-        
-        }
-        public Student(string name, int id)
-        {
-            Name = name;
-            ID = id;
-            
-        }
         public string Name { get; set; } = string.Empty;
-
+        
         public int ID { get; set; }
+        
+        public List<double> Grades { get; set; } = new List<double>();
 
-        List<double> Grades = new List<double>();
+        public void AddGrade (double grade)
 
-        public void AddGrade(double grade)
         {
-
-            Grades.Add(grade);
-
+            Grades.Add (grade);
         }
+
         public void AddGrade(params double[] grades)
         {
             Grades.AddRange(grades);
