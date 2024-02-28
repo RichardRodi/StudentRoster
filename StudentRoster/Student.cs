@@ -13,12 +13,21 @@ namespace StudentRoster
         public void AddGrade(double grade)
         {
 
-           Grades.Add(grade);
+            Grades.Add(grade);
 
         }
         public void AddGrade(params double[] grades)
         {
             Grades.AddRange(grades);
         }
+        public double CalculateAverageGrade()
+        { 
+            if (Grades == null)
+
+                return 0;
+
+            return Grades.Average();
+        }    
+            
     }
 }
