@@ -1,4 +1,6 @@
-﻿namespace StudentRoster
+﻿using System.Collections.Generic;
+
+namespace StudentRoster
 {
     public class Student
     {
@@ -6,6 +8,17 @@
 
         public int ID { get; set; }
 
-        public List<int>Grades; 
+        List<double> Grades = new List<double>();
+
+        public void AddGrade(double grade)
+        {
+
+           Grades.Add(grade);
+
+        }
+        public void AddGrade(params double[] grades)
+        {
+            Grades.AddRange(grades);
+        }
     }
 }
