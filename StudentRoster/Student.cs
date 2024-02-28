@@ -1,9 +1,21 @@
 ﻿using System.Collections.Generic;
+using System.Reflection;
 
 namespace StudentRoster
 {
     public class Student
+
     {
+        public Student()
+        { 
+        
+        }
+        public Student(string name, int id)
+        {
+            Name = name;
+            ID = id;
+            
+        }
         public string Name { get; set; } = string.Empty;
 
         public int ID { get; set; }
