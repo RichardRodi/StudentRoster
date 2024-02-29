@@ -10,6 +10,5 @@ namespace StudentRoster
     internal class StudentList
     {
         public List<Student> StudentLists { get; set; } = new List<Student>();
-        public object ID { get; internal set; }
-    }
+    }   
 }

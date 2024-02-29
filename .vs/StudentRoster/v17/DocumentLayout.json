@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{329FECF1-5AE8-462C-BBFC-5070A789105E}|StudentRoster\\StudentRoster.csproj|c:\\users\\rich rodi\\desktop\\repos\\studentroster\\studentroster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{329FECF1-5AE8-462C-BBFC-5070A789105E}|StudentRoster\\StudentRoster.csproj|solutionrelative:studentroster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329FECF1-5AE8-462C-BBFC-5070A789105E}|StudentRoster\\StudentRoster.csproj|c:\\users\\rich rodi\\desktop\\repos\\studentroster\\studentroster\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329FECF1-5AE8-462C-BBFC-5070A789105E}|StudentRoster\\StudentRoster.csproj|solutionrelative:studentroster\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329FECF1-5AE8-462C-BBFC-5070A789105E}|StudentRoster\\StudentRoster.csproj|c:\\users\\rich rodi\\desktop\\repos\\studentroster\\studentroster\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329FECF1-5AE8-462C-BBFC-5070A789105E}|StudentRoster\\StudentRoster.csproj|solutionrelative:studentroster\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329FECF1-5AE8-462C-BBFC-5070A789105E}|StudentRoster\\StudentRoster.csproj|c:\\users\\rich rodi\\desktop\\repos\\studentroster\\studentroster\\enrollmentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329FECF1-5AE8-462C-BBFC-5070A789105E}|StudentRoster\\StudentRoster.csproj|solutionrelative:studentroster\\enrollmentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329FECF1-5AE8-462C-BBFC-5070A789105E}|StudentRoster\\StudentRoster.csproj|c:\\users\\rich rodi\\desktop\\repos\\studentroster\\studentroster\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329FECF1-5AE8-462C-BBFC-5070A789105E}|StudentRoster\\StudentRoster.csproj|solutionrelative:studentroster\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +30,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnrollmentList.cs",
+              "DocumentMoniker": "C:\\Users\\Rich Rodi\\Desktop\\repos\\StudentRoster\\StudentRoster\\EnrollmentList.cs",
+              "RelativeDocumentMoniker": "StudentRoster\\EnrollmentList.cs",
+              "ToolTip": "C:\\Users\\Rich Rodi\\Desktop\\repos\\StudentRoster\\StudentRoster\\EnrollmentList.cs",
+              "RelativeToolTip": "StudentRoster\\EnrollmentList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T15:59:27.61Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentList.cs",
+              "DocumentMoniker": "C:\\Users\\Rich Rodi\\Desktop\\repos\\StudentRoster\\StudentRoster\\StudentList.cs",
+              "RelativeDocumentMoniker": "StudentRoster\\StudentList.cs",
+              "ToolTip": "C:\\Users\\Rich Rodi\\Desktop\\repos\\StudentRoster\\StudentRoster\\StudentList.cs",
+              "RelativeToolTip": "StudentRoster\\StudentList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T17:14:54.738Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Rich Rodi\\Desktop\\repos\\StudentRoster\\StudentRoster\\Student.cs",
+              "RelativeDocumentMoniker": "StudentRoster\\Student.cs",
+              "ToolTip": "C:\\Users\\Rich Rodi\\Desktop\\repos\\StudentRoster\\StudentRoster\\Student.cs",
+              "RelativeToolTip": "StudentRoster\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:21:54.109Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Rich Rodi\\Desktop\\repos\\StudentRoster\\StudentRoster\\Course.cs",
+              "RelativeDocumentMoniker": "StudentRoster\\Course.cs",
+              "ToolTip": "C:\\Users\\Rich Rodi\\Desktop\\repos\\StudentRoster\\StudentRoster\\Course.cs",
+              "RelativeToolTip": "StudentRoster\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T20:35:30.396Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,10 +96,15 @@
               "RelativeDocumentMoniker": "StudentRoster\\Program.cs",
               "ToolTip": "C:\\Users\\Rich Rodi\\Desktop\\repos\\StudentRoster\\StudentRoster\\Program.cs",
               "RelativeToolTip": "StudentRoster\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEsAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-28T16:19:14.894Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }
